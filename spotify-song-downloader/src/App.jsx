@@ -35,7 +35,6 @@ function App() {
       console.log(error)
     }
   }
-
   return (
     <div
       className="h-screen w-screen bg-[radial-gradient(circle_at_bottom_left,_var(--tw-gradient-stops))] from-green-500 to-green-950 flex items-center justify-center flex-col gap-y-5"
